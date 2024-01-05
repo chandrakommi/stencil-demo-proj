@@ -1,5 +1,5 @@
 {
-  "name": "stencil-demo-proj",
+  "name": "@cs-ng/stencil-demo-proj",
   "version": "0.0.1",
   "description": "Stencil Component Starter",
   "main": "dist/index.cjs.js",
